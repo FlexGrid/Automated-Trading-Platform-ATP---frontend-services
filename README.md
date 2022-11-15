@@ -35,7 +35,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### FMCT - UCS 1.1, UCS 1.2 and UCS 1.3
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS1.X.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
@@ -46,7 +46,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### FST - UCS 2.1
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS2.1.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
@@ -58,7 +58,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### FST - UCS 2.2
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS2.2.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
@@ -70,7 +70,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### FST - UCS 2.3
 
-1. GO to [ICSS Stacked revenues SWAGGER API] (https://stacked-revenues-api.flexgrid-project.eu/swagger/stacked-revenues.yml )
+1. GO to [ICSS Stacked revenues SWAGGER API](https://stacked-revenues-api.flexgrid-project.eu/swagger/)
 2. Identify with credentials given by ICSS (please contact to them):
     1. Click on button 'Autorize'
     2. When a window appears, fill inputs with data given by ICCS    
@@ -84,7 +84,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### AFAT - UCS 4.1
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS4.1.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
@@ -96,7 +96,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### AFAT - UCS 4.2
 
-1. GO to [ICCS Pricing SWAGGER API] (https://pricing-api.flexgrid-project.eu/swagger/). You can use data returned by services in [ICCS Database services swagger] (https://db.flexgrid-project.eu/swagger/).
+1. GO to [ICCS Pricing SWAGGER API](https://pricing-api.flexgrid-project.eu/swagger/). You can use data returned by services in [ICCS Database services swagger](https://db.flexgrid-project.eu/swagger/).
 2. Identify with credentials given by ICSS (please contact to them):
     1. Click on button 'Autorize'
     2. When a window appears, fill inputs with data given by ICCS    
@@ -111,7 +111,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### AFAT - UCS 4.3
 
-1. GO to [ICSS Flex Ofer SWAGGER API] (https://flex-offers-api.flexgrid-project.eu/swagger)
+1. GO to [ICSS Flex Ofer SWAGGER API](https://flex-offers-api.flexgrid-project.eu/swagger/)
 2. Identify with credentials given by ICSS (please contact to them):
     1. Click on button 'Autorize'
     2. When a window appears, fill inputs with data given by ICCS    
@@ -126,7 +126,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### AFAT - UCS 4.4 PV Forecasting
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS4.4_PV_production.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
@@ -138,7 +138,7 @@ Each service or algorithm is accesible independently of the ATP GUI. You can cal
 
 ### AFAT - UCS 4.4 Market prices forecasting
 
-1. GO to [General FLEXGRID SWAGGER API] (https://api.demo.etra-id.com/)
+1. GO to [General FLEXGRID SWAGGER API](https://api.demo.etra-id.com/)
 2. Fill the upper input next to button 'Explore' with 'https://resources.demo.etra-id.com/SWAGGER/flexgrid/UCS4.4_PricesForecasting.yaml'
 3. Test each service by expanding it (icon v):
      1. Click on button 'Try it out'. The different required inputs will become enabled
